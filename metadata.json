@@ -1,0 +1,7 @@
+{
+  "name": "Portal SMKN 2 Tembilahan",
+  "description": "Portal resmi SMK Negeri 2 Tembilahan dengan asisten AI dan sistem informasi terpadu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
